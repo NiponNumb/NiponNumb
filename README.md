@@ -79,20 +79,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/NiponNumb/NiponNumb/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-*(Note: to enable this, follow the setup instructions for [Platane's Snake](https://github.com/Platane/snk))*
-
----
-
 ## 📊 Contributions Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiponNumb&theme=github-compact" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiponNumb&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
