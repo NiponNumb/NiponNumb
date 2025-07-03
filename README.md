@@ -12,7 +12,7 @@
   <strong>Software Development Engineer</strong> from Aguascalientes, Mexico<br/>
   🚀 Specialized in <strong>C#, TypeScript, Angular, .NET, Azure, and Automation</strong><br/>
   🐹 Passionate about hamsters, birds, cats, and guinea pigs<br/>
-  🌎 English Level B2 • Aspiring to work and live in Japan<br/>
+  🌎 English Level B2 • Aspiring to learn more<br/>
   📫 <a href="mailto:oropeza012@hotmail.com">oropeza012@hotmail.com</a>
 </p>
 
