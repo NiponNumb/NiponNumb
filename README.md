@@ -7,7 +7,7 @@
   <img src="https://github.com/NiponNumb.png" alt="avatar" width="150" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm HuitziHam</h1>
+<h1 align="center">Hi 👋, I'm NiponNumb</h1>
 
 <p align="center">
   <strong>Software Development Engineer</strong> from México<br/>
