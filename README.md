@@ -11,9 +11,12 @@
   <strong>Software Engineer & AI Developer</strong> from México 🇲🇽<br/>
   🚀 Specialized in <strong>C#, .NET, Angular, Python, Java, Azure, SQL Server, Node-RED, and AI</strong><br/>
   🧠 Experienced in <strong>LLMs, PyTorch, FastAPI, OCR, Automation, and Game Development</strong><br/>
-  🐹 Passionate about hamsters, birds, cats, and guinea pigs<br/>
-  🌎 English Level B2 (iTEP Certified) • Japanese (Basic, learning)<br/>
+  🌎 English Level B2 (iTEP Certified) • 日本語: Basic (learning)<br/>
   📫 <a href="mailto:oropeza012@hotmail.com">oropeza012@hotmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NiponNumb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -28,17 +31,17 @@
 
 | Project                                        | Description |
 |-----------------------------------------------|-------------|
-| **RestFlash – API/CRUD Generator**             | Personal project: Generates .NET 9 REST APIs with controllers, DTOs, JWT & Swagger, plus Angular TS CRUDs with professional UI. |
-| **VISA Project (NTT DATA)**                    | Enterprise-grade financial solutions with Node.js (NestJS), .NET 9, Angular TS, Azure & AWS. Focused on secure APIs and compliance. |
-| **Honda Migration (Freelance)**                | Migration of Honda systems from legacy stack to Angular TS (frontend) + C# backend with OWASP security and caching. |
-| **GPT-based Chatbot (NTT DATA)**               | PowerBuilder + Microsoft Graph API integrated with GPT for Microsoft Teams, using knowledge collections for context. |
-| **RUNA Automation**                            | Teams & Outlook bulk messaging system with templates, Excel targeting, and history tracking. |
-| **Vulnerability Scanner Tool**                 | Windows Forms + XML hybrid tool to analyze URLs with OWASP Top 10 rules; reduced internal risks by 40%. |
-| **OCR & AI Pipelines**                         | Python + Tesseract, EasyOCR, TrOCR, OpenCV, PyTorch for offline printed/handwritten extraction. Deployed via Flask/Uvicorn APIs. |
-| **HamsterAdventures (Unity Game)**             | 2D platformer game built in C# with Unity, implementing gameplay mechanics, physics, and UI. |
-| **POS Systems**                                | Two POS apps in C# + SQL, one integrated with **Stripe** payments for real-world commerce use. |
-| **LLM Trainer (Python)**                       | Lightweight GPT-style model trainer from URLs/PDFs with PyTorch, tokenizer, and dataset pipeline. |
-| **Arduino Smart Car + Android App**            | Bluetooth-controlled Arduino car with radar obstacle detection, Android SDK app, and JS-based radar UI. |
+| **RestFlash – API/CRUD Generator** *(Personal)* | Generates **.NET 9** REST APIs (controllers, DTOs, JWT, Swagger) and **Angular TS** CRUDs with a professional UI (forms, tables, pagination, search, alerts). |
+| **VISA Project (NTT DATA)**                   | Enterprise-grade financial solutions using **Node.js (NestJS)**, **.NET 9**, **Angular TS**, **Azure & AWS**. Focus on secure APIs, CI/CD, and compliance. |
+| **Honda Migration (Freelance)**               | Migration from legacy to **Angular TS (frontend)** + **C# (.NET backend)** with **OWASP-based** security, middlewares, caching, and metrics. |
+| **GPT-based Chatbot (NTT DATA)**              | **PowerBuilder** + **Microsoft Graph API** integrated with **GPT** for **Microsoft Teams**, bootstrapped via knowledge collections and system prompts. |
+| **RUNA Automation**                           | Teams & Outlook bulk messaging with templates, Excel targeting by short email IDs, and history storage. |
+| **Vulnerability Scanner Tool**                | **C# (Windows Forms + XML)** scanner analyzing URLs against **OWASP Top 10**; delivered dashboards; reduced internal risk by **40%**. |
+| **OCR & AI Pipelines**                        | **Python** + **Tesseract/EasyOCR/TrOCR/OpenCV/PyTorch** for printed/handwritten extraction; deployed as **Flask/Uvicorn** microservices. |
+| **HamsterAdventures (Unity)**                 | 2D platformer in **C#** (Unity) with gameplay mechanics, physics interactions, asset integration, and UI. |
+| **POS Systems**                                | Two POS apps in **C# + SQL (SQLite/SQL Server)**, one integrated with **Stripe** payments. |
+| **LLM Trainer (Python)**                      | Lightweight GPT-style trainer from **URLs/PDFs**: tokenization, dataset building, training pipeline, and text generation. |
+| **Arduino Smart Car + Android App**           | Bluetooth-controlled Arduino car with **RF radar sensor** and **Android SDK (Java)** app; JS-based radar visualization. |
 
 ---
 
@@ -64,49 +67,37 @@
 
 ## 🧠 AI & Automation
 
-- 🧩 GPT-based chatbots (Graph API, PowerBuilder, Teams integration)  
-- 📄 OCR pipelines (Tesseract, EasyOCR, TrOCR, PyTorch, OpenCV)  
-- 🧠 LLM Trainer in Python (PyTorch, tokenizers, PDFs/URLs)  
-- ⚙️ FastAPI & Flask for AI model deployment  
-- 🔁 Workflow automation with AXET Flows & Power Automate  
-- 📦 Email & file automation (HTML/JSON templates, OneDrive, Teams)  
+- GPT-based chatbots (Teams + Graph API + PowerBuilder integration)  
+- OCR pipelines (Tesseract, EasyOCR, TrOCR, OpenCV, PyTorch)  
+- LLM Trainer in Python (URLs/PDFs → tokenizer/dataset/training)  
+- FastAPI / Flask APIs for AI deployment (Uvicorn in production)  
+- Workflow automation (AXET Flows, Node-RED, Power Automate)  
+- Email/file automation (HTML/JSON templates, OneDrive, Teams)
 
 ---
 
 ## 💼 Professional Experience
 
-- **Software Developer – Automation Team** @ NTT DATA (2023–Present)  
-  - VISA Project – secure APIs, CI/CD pipelines, financial-grade compliance  
-  - GPT-based Chatbot – Teams + GPT integration with knowledge collections  
-  - C# Vulnerability Scanner – OWASP Top 10 rules, XML dashboards  
-  - OCR & AI Pipelines – Tesseract, TrOCR, PyTorch  
+- **Software Developer – Automation Team** @ **NTT DATA** (2023–Present)  
+  - VISA Project: secure APIs (JWT, encryption, caching), CI/CD, compliance (Node.js/NestJS, .NET 9, Angular TS, Azure & AWS).  
+  - GPT-based Chatbot: Teams + GPT with knowledge collections; PowerBuilder + Graph API integration.  
+  - Security & AI: C# vulnerability scanner (−40% risk); OCR pipelines with Tesseract/TrOCR/PyTorch.
 
-- **Honda Migration Project (Freelance, 2024–Present)**  
-  - Migrating Honda systems to Angular TS frontend + C# backend  
-  - Implemented OWASP-based security, middlewares, caching  
+- **Honda Migration Project – Freelance** (2024–Present)  
+  - Migration to **Angular TS + C# (.NET)**; OWASP-based security, middlewares, caching, metrics.
 
-- **Systems Developer** @ ORPEL (2022)  
-  - Built Angular + .NET Core web apps and Windows Forms tools  
-  - Automated workflows with Node.js + Power Automate  
+- **Systems Developer** @ **ORPEL** (2022)  
+  - Angular + .NET Core web apps, Windows Forms tools; Node.js + Power Automate workflows; SQL Server + Teams integration.
 
 ---
 
 ## 🎮 Other Highlights
 
-- 🎮 **HamsterAdventures:** Unity 2D game in C#  
-- 🔐 **Security:** JWT auth, custom scanners, OWASP compliance  
-- 🧰 **Tools:** RestFlash (API/CRUD Generator), RUNA (Messaging Automation)  
-- 📊 **Excel/DB:** Jira automation, SQL Server auto-documentation  
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **B.Eng. Software Development Engineering** – UTMAT (2022–2024)  
-- 💻 **Associate Degree in Software Development** – UTMAT (2019–2022)  
-- 🏅 **.NET 8+ API Certification**  
-- 🧠 **IBM AI Fundamentals Certification**  
-- 🌎 **iTEP English Certification – B2 (Upper-Intermediate)**  
+- **RestFlash (Personal):** API/CRUD Generator (.NET 9 + Angular TS)  
+- **RUNA:** Teams & Outlook automation (templates, Excel targeting, history)  
+- **HamsterAdventures:** Unity 2D (C#)  
+- **POS Systems:** C# + SQL; one with **Stripe**  
+- **Arduino Smart Car:** Android SDK app (Java) + RF radar + JS visualization  
 
 ---
 
@@ -115,6 +106,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiponNumb&theme=dark&show_icons=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiponNumb&theme=dark&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NiponNumb&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -132,6 +127,32 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiponNumb&theme=tokyo-night" />
 </p>
+
+---
+
+## ⏳ Productive Time
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiponNumb&theme=github_dark&utcOffset=8" />
+</p>
+
+---
+
+## 🧩 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiponNumb&theme=github_dark" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Eng. Software Development Engineering** – UTMAT (2022–2024)  
+- **Associate Degree in Software Development** – UTMAT (2019–2022)  
+- **.NET 8+ API Certification**  
+- **IBM AI Fundamentals**  
+- **iTEP English Certification – B2 (Upper-Intermediate)**
 
 ---
 
