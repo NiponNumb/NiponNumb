@@ -10,9 +10,9 @@
 <p align="center">
   <strong>Software Engineer & AI Developer</strong> from México 🇲🇽<br/>
   🚀 Specialized in <strong>C#, .NET, Angular, Python, Java, Azure, SQL Server, Node-RED, and AI</strong><br/>
-  🧠 Experienced in <strong>LLMs, PyTorch, FastAPI, OCR, Server Config, Automation and Game Dev</strong><br/>
+  🧠 Experienced in <strong>LLMs, PyTorch, FastAPI, OCR, Automation, and Game Development</strong><br/>
   🐹 Passionate about hamsters, birds, cats, and guinea pigs<br/>
-  🌎 English Level B2 • Constant Learner<br/>
+  🌎 English Level B2 (iTEP Certified) • Japanese (Basic, learning)<br/>
   📫 <a href="mailto:oropeza012@hotmail.com">oropeza012@hotmail.com</a>
 </p>
 
@@ -24,25 +24,21 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NiponNumb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
 ## 📌 Featured Projects
 
 | Project                                        | Description |
 |-----------------------------------------------|-------------|
-| **REST API and Angular CRUD Generator**        | Full SaaS-ready code generator that builds .NET REST APIs and Angular CRUDs with JWT, Swagger, and intelligent DB schema detection. |
-| **AI Trainer and Chatbot System**              | Python GUI app that extracts content from URLs and PDFs, trains GPT-style models using PyTorch, and generates smart responses using LLMs. |
-| **Legacy Migration Tool (PowerBuilder → Web)** | Advanced code migrator converting legacy PowerBuilder apps to Angular TS + Java microservices with scalable architecture. |
-| **HamsterAdventures (Unity Game)**             | 2D platformer game programmed in C# using Unity, starring custom-designed hamster characters and logic. |
-| **Vehicle Management System (Java)**           | Java desktop app for car workshop tracking, reports, and database persistence. |
-| **Jira Excel Automation**                      | Full integration between Excel files and Jira tasks/subtasks using AXET Flows. |
-| **Graph Email Automation Bot**                 | Microsoft Graph API + OneDrive + Power Automate system for sending dynamic HTML mails and Teams messages with attachments. |
-| **Vulnerability Scanner Tool**                 | C# desktop app for scanning internal application security risks. |
-| **POS System (HuitziHam)**                     | Touch-friendly point of sale built in WPF (.NET 9), designed for restaurant use by non-technical users. |
+| **RestFlash – API/CRUD Generator**             | Personal project: Generates .NET 9 REST APIs with controllers, DTOs, JWT & Swagger, plus Angular TS CRUDs with professional UI. |
+| **VISA Project (NTT DATA)**                    | Enterprise-grade financial solutions with Node.js (NestJS), .NET 9, Angular TS, Azure & AWS. Focused on secure APIs and compliance. |
+| **Honda Migration (Freelance)**                | Migration of Honda systems from legacy stack to Angular TS (frontend) + C# backend with OWASP security and caching. |
+| **GPT-based Chatbot (NTT DATA)**               | PowerBuilder + Microsoft Graph API integrated with GPT for Microsoft Teams, using knowledge collections for context. |
+| **RUNA Automation**                            | Teams & Outlook bulk messaging system with templates, Excel targeting, and history tracking. |
+| **Vulnerability Scanner Tool**                 | Windows Forms + XML hybrid tool to analyze URLs with OWASP Top 10 rules; reduced internal risks by 40%. |
+| **OCR & AI Pipelines**                         | Python + Tesseract, EasyOCR, TrOCR, OpenCV, PyTorch for offline printed/handwritten extraction. Deployed via Flask/Uvicorn APIs. |
+| **HamsterAdventures (Unity Game)**             | 2D platformer game built in C# with Unity, implementing gameplay mechanics, physics, and UI. |
+| **POS Systems**                                | Two POS apps in C# + SQL, one integrated with **Stripe** payments for real-world commerce use. |
+| **LLM Trainer (Python)**                       | Lightweight GPT-style model trainer from URLs/PDFs with PyTorch, tokenizer, and dataset pipeline. |
+| **Arduino Smart Car + Android App**            | Bluetooth-controlled Arduino car with radar obstacle detection, Android SDK app, and JS-based radar UI. |
 
 ---
 
@@ -56,6 +52,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
   <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white&style=for-the-badge" />
   <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white&style=for-the-badge" />
@@ -65,32 +62,51 @@
 
 ---
 
-## 🧠 AI & Automation Stack
+## 🧠 AI & Automation
 
-- 🧩 Custom LLM integration (FLAN-T5, Mistral GGUF, ctransformers)
-- 📄 OCR from PDFs (Tesseract, pdfplumber)
-- 🧠 PyTorch model training for GPT-style responses
-- ⚙️ FastAPI for AI interfaces and model deployment
-- 🔁 Workflow automation (AXET Flows, Power Automate)
-- 📦 JSON/HTML email templating + file processing
+- 🧩 GPT-based chatbots (Graph API, PowerBuilder, Teams integration)  
+- 📄 OCR pipelines (Tesseract, EasyOCR, TrOCR, PyTorch, OpenCV)  
+- 🧠 LLM Trainer in Python (PyTorch, tokenizers, PDFs/URLs)  
+- ⚙️ FastAPI & Flask for AI model deployment  
+- 🔁 Workflow automation with AXET Flows & Power Automate  
+- 📦 Email & file automation (HTML/JSON templates, OneDrive, Teams)  
 
 ---
 
 ## 💼 Professional Experience
 
-- **Software Developer - Automation Area** at NTT DATA EMEAL (3+ years)
-  - Developed and deployed enterprise solutions in C#, Angular, Java, Python, and Azure
-  - Built custom AI trainers, automation bots, and a full REST/CRUD code generator
-  - Modernized legacy software and managed real server environments
+- **Software Developer – Automation Team** @ NTT DATA (2023–Present)  
+  - VISA Project – secure APIs, CI/CD pipelines, financial-grade compliance  
+  - GPT-based Chatbot – Teams + GPT integration with knowledge collections  
+  - C# Vulnerability Scanner – OWASP Top 10 rules, XML dashboards  
+  - OCR & AI Pipelines – Tesseract, TrOCR, PyTorch  
+
+- **Honda Migration Project (Freelance, 2024–Present)**  
+  - Migrating Honda systems to Angular TS frontend + C# backend  
+  - Implemented OWASP-based security, middlewares, caching  
+
+- **Systems Developer** @ ORPEL (2022)  
+  - Built Angular + .NET Core web apps and Windows Forms tools  
+  - Automated workflows with Node.js + Power Automate  
 
 ---
 
 ## 🎮 Other Highlights
 
-- 🎮 **Game Dev:** Creator of *HamsterAdventures* (Unity C# platformer)
-- 🔐 **Security:** In-house vulnerability scanners and secure JWT auth
-- 💻 **SysAdmin:** Windows Server setup, deployment, remote hosting
-- 📊 **Excel/DB Tools:** Smart parsing of Excel to SQL + Jira + PDF extraction
+- 🎮 **HamsterAdventures:** Unity 2D game in C#  
+- 🔐 **Security:** JWT auth, custom scanners, OWASP compliance  
+- 🧰 **Tools:** RestFlash (API/CRUD Generator), RUNA (Messaging Automation)  
+- 📊 **Excel/DB:** Jira automation, SQL Server auto-documentation  
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.Eng. Software Development Engineering** – UTMAT (2022–2024)  
+- 💻 **Associate Degree in Software Development** – UTMAT (2019–2022)  
+- 🏅 **.NET 8+ API Certification**  
+- 🧠 **IBM AI Fundamentals Certification**  
+- 🌎 **iTEP English Certification – B2 (Upper-Intermediate)**  
 
 ---
 
@@ -119,37 +135,6 @@
 
 ---
 
-## ⏳ Productive Time
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiponNumb&theme=github_dark&utcOffset=8" />
-</p>
-
----
-
-## 🧩 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiponNumb&theme=github_dark" />
-</p>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **BSc Software Development** (2022–2024) - UTMAT  
-- 💻 **Technical Degree in Multiplatform Development** (2019–2022)  
-- 🏅 **.NET 8+ API Certification** (Udemy)  
-- 🧠 **AI Fundamentals Certification** (IBM)
-
----
-
-## 🌟 About Me
-
-I love building tools that automate, modernize, and enhance the software lifecycle. Whether it's migrating legacy code, generating APIs, creating custom LLMs, or building games, I'm always exploring new frontiers in tech.
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -163,3 +148,4 @@ I love building tools that automate, modernize, and enhance the software lifecyc
     <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
