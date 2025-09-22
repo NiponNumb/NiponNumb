@@ -5,7 +5,7 @@
   <img src="https://github.com/NiponNumb.png" alt="avatar" width="150" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm NiponNumb</h1>
+<h1 align="center">Hi 👋, I'm Alex</h1>
 
 <p align="center">
   <strong>Software Engineer & AI Developer</strong> from México 🇲🇽<br/>
